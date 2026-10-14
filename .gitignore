@@ -1,0 +1,12 @@
+# Virtual Environment
+.venv/
+
+# Secrets
+.env
+
+# Vector Database (generated locally, doesn't need to be in version control)
+chroma_db/
+
+# Python Cache files
+__pycache__/
+*.pyc
